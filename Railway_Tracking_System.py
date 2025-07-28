@@ -10,7 +10,7 @@ root = tk.Tk()
 root.title('Railway Tracking System')
 root.geometry('1420x780+50+6')
 
-api_key = '78rgdx4n19fsfwe'
+api_key = ''
 
 date2 = ''
 u_dest = ''
